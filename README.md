@@ -2,7 +2,7 @@
 
 > python_Django_blog
 
-- live [here](http://jinho6225.pythonanywhere.com/)
+- live site [click here] (http://jinho6225.pythonanywhere.com/)
 
 - feature
   - User can sign in & sing out
