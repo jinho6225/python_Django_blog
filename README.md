@@ -1,4 +1,6 @@
-# web blog built by python with web framework Django
+# web blog
+
+### built by python with web framework Django
 
 > python_Django_blog
 
