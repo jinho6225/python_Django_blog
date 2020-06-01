@@ -31,7 +31,6 @@
         Hello {{ user.username }}
         <small>(<a href="{% url 'logout' %}">Log out</a>)</small>
       </p>
-
       {% else %}
       <a href="{% url 'login' %}" class="top-menu"
         ><span class="glyphicon glyphicon-lock"></span
